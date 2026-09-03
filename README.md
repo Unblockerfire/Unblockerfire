@@ -1,56 +1,82 @@
-<h1 align="center">yo, i'm Swipe 👋</h1>
+<h1 align="center">Hey, I'm Swipe 👋</h1>
 
 <p align="center">
-  full-stack developer • ai automation • professional button presser
+  Full-stack developer • AI automation • Professional button presser
 </p>
 
 <p align="center">
   <a href="https://github.com/Unblockerfire">
-    <img src="https://img.shields.io/badge/GitHub-Unblockerfire-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GITHUB-UNBLOCKERFIRE-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/Unblockerfire/Bourbon">
+    <img src="https://img.shields.io/badge/🥃_BOURBON-VIEW_PROJECT-B45309?style=for-the-badge">
+  </a>
+  <a href="https://discord.gg/bpm6EGSVMR">
+    <img src="https://img.shields.io/badge/DISCORD-JOIN_BOURBON-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
 
 ---
 
-### 👨‍💻 what i'm doing
+### 👨‍💻 What I'm Doing
 
-- 🔨 Building full-stack web apps
-- 🤖 Messing with AI, agents & automation
-- ☁️ Deploying way too many things to the cloud
-- 🧪 Constantly starting another side project
-- 🧠 Learning more about backend systems, infrastructure & AI
-- 🍎 Building native macOS stuff with SwiftUI
+- 🔨 Building full-stack web applications.
+- 🤖 Experimenting with AI, agents, and automation.
+- ☁️ Deploying way too many things to the cloud.
+- 🧪 Constantly starting another side project.
+- 🧠 Learning more about backend systems and infrastructure.
+- 🍎 Building native macOS applications with SwiftUI.
 
 ---
 
-### 🚀 main project
+### 🚀 Main Project
 
 ## 🥃 Bourbon
 
-> A native macOS AI model wrapper built with SwiftUI.
+> **Modern Windows compatibility for macOS.**
 
-Bourbon is my main project right now. I'm building it around making AI models feel more like a proper native macOS app instead of just another browser tab.
+Bourbon allows you to run Windows applications and games on macOS through a native SwiftUI experience.
 
-- 🍎 Native macOS app
-- ⚡ Built with SwiftUI
-- 🤖 AI model support
-- 🧠 Focused on a clean, simple experience
-- 🔨 Actively being worked on
+<p>
+  <a href="https://github.com/Unblockerfire/Bourbon">
+    <img src="https://img.shields.io/github/v/release/Unblockerfire/Bourbon?style=for-the-badge">
+  </a>
+  <a href="https://github.com/Unblockerfire/Bourbon/actions/workflows/release.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/Unblockerfire/Bourbon/release.yml?style=for-the-badge&label=BUILD">
+  </a>
+  <a href="https://discord.gg/bpm6EGSVMR">
+    <img src="https://img.shields.io/badge/CHAT-JOIN_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
+
+Bourbon is a native macOS frontend designed to make running Windows applications and games on macOS easier and more accessible.
+
+- 🍾 One-click Bottle creation.
+- 🖥 Native SwiftUI interface.
+- ⚡ Automatic updates through Sparkle.
+- 📦 Distillery package manager.
+- 🐞 Built-in bug reporting.
+- 🔐 Secure licensing.
+- 🛠 Runtime API.
+- 🧪 Stable and Beta release channels.
+
+[**View Bourbon →**](https://github.com/Unblockerfire/Bourbon)  
+[**Join the Bourbon Discord →**](https://discord.gg/bpm6EGSVMR)
 
 ---
 
-### 🧰 stuff i use
+### 🧰 Technologies I Use
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,python,swift,postgres,docker,git,cloudflare" />
 </p>
 
-**Also using:**  
+**Also Using:**  
 `Fly.io` `OpenAI` `GitHub` `REST APIs` `AI Agents`
 
 ---
 
-### 📊 github stuff
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Unblockerfire&show_icons=true&theme=github_dark&hide_border=true" />
@@ -62,17 +88,17 @@ Bourbon is my main project right now. I'm building it around making AI models fe
 
 ---
 
-### 🧪 currently learning
+### 🧪 Currently Learning
 
-- System architecture
-- Better backend design
-- AI agent workflows
-- Local AI
-- macOS development
-- Making projects slightly less held together by duct tape
+- System architecture.
+- Better backend design.
+- AI agent workflows.
+- Local AI.
+- macOS development.
+- How to make my projects slightly less held together by duct tape.
 
 ---
 
 <p align="center">
-  <i>probably coding something instead of sleeping</i>
+  <i>Probably coding something instead of sleeping.</i>
 </p>
