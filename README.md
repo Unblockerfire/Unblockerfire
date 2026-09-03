@@ -65,25 +65,33 @@ Bourbon is a native macOS frontend designed to make running Windows applications
 
 ---
 
-### 🧰 Technologies I Use
+### 🧰 Technologies & Tools I Use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,python,swift,postgres,docker,git,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,python,swift,postgres,docker,git,cloudflare,vscode,replit" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Fly.io-7B3FF2?style=for-the-badge&logo=flydotio&logoColor=white" alt="Fly.io" />
+  <img src="https://img.shields.io/badge/Lovable.dev-FF5C8A?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable.dev" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 </p>
 
 **Also Using:**  
-`Fly.io` `OpenAI` `GitHub` `REST APIs` `AI Agents`
+`GitHub` `REST APIs` `AI Agents`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Unblockerfire&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unblockerfire&theme=github_dark" height="180" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Unblockerfire&theme=github_dark" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unblockerfire&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Unblockerfire&theme=github_dark" width="100%" alt="GitHub Profile Details" />
 </p>
 
 ---
