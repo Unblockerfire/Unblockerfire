@@ -1,7 +1,11 @@
-<h1 align="center">yo, i'm Swipe 👋</h1>
+<h1 align="center">Hey, I'm Swipe 👋</h1>
 
 <p align="center">
-  I build stuff, break stuff, fix it, then somehow end up starting another project.
+  <img src="./swipe-banner.png" width="100%" alt="Mr. Bourbon | Swipe" />
+</p>
+
+<p align="center">
+  I build things, break them, fix them, and somehow turn small ideas into way bigger projects.
 </p>
 
 <p align="center">
@@ -20,25 +24,27 @@
 
 ## 👋 About Me
 
-I'm Swipe.
+I'm **Swipe**.
 
-Most of what I do revolves around building software, experimenting with AI, messing with infrastructure, and seeing how far I can take an idea before it turns into an actual project.
+Most of what I do revolves around building software, experimenting with AI, messing with infrastructure, and seeing how far I can take an idea before it turns into a real project.
 
 I bounce between:
 
 - 🍎 Native macOS development
-- 🌐 Full-stack web apps
+- 🪟 Windows development & testing
+- 🐧 Linux
+- 🌐 Full-stack web development
 - 🤖 AI agents & automation
 - 🧠 Local AI and model tooling
 - ☁️ Cloud infrastructure
 - 🐳 Containers & deployment
-- 🖥 Windows/macOS compatibility
-- 🔌 APIs and random integrations
-- 🧪 Side projects that were definitely supposed to stay small
+- 🍷 Wine & Windows compatibility
+- 🔌 APIs & integrations
+- 🧪 Random side projects that were definitely supposed to stay small
 
 A lot of my projects start with:
 
-> "wait... couldn't I just build that?"
+> **"wait... couldn't I just build that?"**
 
 and then somehow I'm still working on it three days later.
 
@@ -50,7 +56,7 @@ and then somehow I'm still working on it three days later.
 
 Bourbon is the project I'm spending most of my time on right now.
 
-It's a native macOS application built with SwiftUI for running, managing, and troubleshooting Windows applications and games on macOS.
+It's a native macOS application built with **SwiftUI** for running, managing, and troubleshooting Windows applications and games on macOS.
 
 <p>
   <img src="https://img.shields.io/badge/RELEASE-PAUSED-F59E0B?style=for-the-badge">
@@ -60,11 +66,11 @@ It's a native macOS application built with SwiftUI for running, managing, and tr
   </a>
 </p>
 
-Originally inspired by Whisky, Bourbon has grown into its own actively developed project with its own runtime infrastructure, onboarding, diagnostics, installer handling, application discovery, licensing, packaging, and compatibility tooling.
+Originally inspired by Whisky, Bourbon has grown into its own actively developed compatibility project with custom runtime infrastructure, onboarding, diagnostics, installer handling, application discovery, licensing, packaging, and compatibility tooling.
 
 ### What Bourbon does
 
-- 🍾 Create and manage Windows Bottles
+- 🍾 Create & manage Windows Bottles
 - 🎮 Run Windows applications and games on macOS
 - 🖥 Native SwiftUI interface
 - 🍷 BourbonWine runtime integration
@@ -80,27 +86,32 @@ Originally inspired by Whisky, Bourbon has grown into its own actively developed
 > [!IMPORTANT]
 > **Public Bourbon downloads are currently paused**
 >
-> Runtime and compatibility changes are being tested before the next public build.
+> Runtime and compatibility changes are being validated before the next public build.
 
 [**View Bourbon →**](https://github.com/Unblockerfire/Bourbon)  
 [**Join the Bourbon Discord →**](https://discord.gg/bpm6EGSVMR)
 
 ---
-## 🧰 Stuff I Use
 
-### 💻 Platforms
+# 🧰 Stuff I Use
+
+## 💻 Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu" />
 </p>
 
-### 👨‍💻 Languages
+---
+
+## 👨‍💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=swift,ts,js,python,html,css,bash,powershell" />
 </p>
 
-### 🌐 Web & App Development
+---
+
+## 🌐 Web & App Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,npm" />
@@ -108,20 +119,24 @@ Originally inspired by Whisky, Bourbon has grown into its own actively developed
 
 <p>
   <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Backend
+---
+
+## 🗄️ Databases & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,firebase" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black" />
 </p>
 
-### ☁️ Cloud, DevOps & Infrastructure
+---
+
+## ☁️ Cloud & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,cloudflare" />
@@ -131,7 +146,9 @@ Originally inspired by Whisky, Bourbon has grown into its own actively developed
   <img src="https://img.shields.io/badge/Fly.io-7B3FF2?style=for-the-badge&logo=flydotio&logoColor=white" />
 </p>
 
-### 🛠️ Development Tools
+---
+
+## 🛠 Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,replit,xcode" />
@@ -142,26 +159,35 @@ Originally inspired by Whisky, Bourbon has grown into its own actively developed
   <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-### 🤖 AI & Automation
+---
+
+## 🤖 AI & Automation
 
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Local_AI-111111?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local_AI-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-9333EA?style=for-the-badge" />
 </p>
 
-### 🍷 Compatibility & macOS
+---
+
+## 🍷 macOS & Compatibility
 
 <p>
   <img src="https://img.shields.io/badge/Wine-800000?style=for-the-badge&logo=wine&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/Universal_2-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Rosetta-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sparkle-111111?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/MoltenVK-E34F26?style=for-the-badge&logo=vulkan&logoColor=white" />
 </p>
 
-### 🔌 APIs & Services
+---
+
+## 🔌 APIs & Services
 
 <p>
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
@@ -170,7 +196,9 @@ Originally inspired by Whisky, Bourbon has grown into its own actively developed
   <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-### ⚙️ Also in the Toolbox
+---
+
+## ⚙️ Other Stuff in the Toolbox
 
 `GitHub Actions`
 `Wine`
@@ -183,32 +211,39 @@ Originally inspired by Whisky, Bourbon has grown into its own actively developed
 `Rosetta`
 `Sparkle`
 `MoltenVK`
-`Cloudflare DNS`
+`Cloudflare`
 `Fly.io`
 `Local Models`
 `AI Agents`
 `Automation`
 `Git`
 `GitHub`
+`Xcode`
+`Firebase`
+`PostgreSQL`
+`Prisma`
+`Neon`
+
 ---
 
-## 🔬 What I'm Usually Messing With
+# 🔬 What I'm Usually Messing With
 
-- Building native macOS apps in SwiftUI
+- Building native macOS apps with SwiftUI
 - Figuring out Wine and Windows compatibility
 - Building AI-assisted workflows
 - Running local models
-- Making agents do useful things
+- Making AI agents do useful things
 - Backend architecture
 - APIs and authentication
 - Deployment pipelines
 - GitHub Actions
-- Containers
+- Docker & containers
+- Windows, macOS & Linux
 - Debugging something that absolutely worked five minutes ago
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Unblockerfire&theme=github_dark" height="180" alt="GitHub Stats" />
@@ -221,7 +256,7 @@ Originally inspired by Whisky, Bourbon has grown into its own actively developed
 
 ---
 
-## 🧠 Currently Learning
+# 🧠 Currently Learning
 
 Mostly whatever the current project forces me to learn.
 
@@ -230,13 +265,13 @@ Right now that's a lot of:
 - macOS internals
 - Swift & SwiftUI
 - Wine
-- system architecture
-- backend design
-- process management
+- System architecture
+- Backend design
+- Process management
 - AI agent workflows
-- local AI
-- infrastructure
-- making software slightly less held together by duct tape
+- Local AI
+- Infrastructure
+- Making software slightly less held together by duct tape
 
 ---
 
